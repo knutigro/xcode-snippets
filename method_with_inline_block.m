@@ -6,4 +6,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-- (void)methodNameWithBlock:(void(^)(NSArray *photos, NSUInteger index))block
+- (void)methodNameWithBlock:(void(^)(#variable))block

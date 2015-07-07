@@ -6,4 +6,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-- (void)methodNameWithBlock:(void(^)(#variable))block
+- (void)methodNameWithBlock:(void(^)(#variable#))block

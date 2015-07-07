@@ -1,5 +1,5 @@
 // Method with inline block
-// 
+// Method with inline block
 //
 // IDECodeSnippetCompletionPrefix: inlineblock
 // IDECodeSnippetCompletionScopes: [CodeBlock]

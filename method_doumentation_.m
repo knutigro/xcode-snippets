@@ -1,5 +1,5 @@
 // Method Doumentation 
-// 
+// Doxygen style 
 //
 // IDECodeSnippetCompletionScopes: [ClassInterfaceMethods]
 // IDECodeSnippetIdentifier: C82DB80E-4A1E-405C-933D-1AA4124A8F98
